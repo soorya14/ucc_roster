@@ -1,0 +1,45 @@
+SL No,employee_name,Starting shift,Gender,Support,address
+1,Manikandan S,G,M,Backend Support,Chennai
+2,Sindhu Ramesh,G,F,App Support,Chennai
+3,Ramanan K A V,G,M,CCOE Support,Chennai
+4,Sudarshan Iyengar,G,M,App Support,Pune
+5,Praveen AV,G,M,Principle Support,Chennai
+6,Naveen Kumar,G,M,Discover + E2E + Digital Purchase,Chennai
+7,Kumaragurunaathan,G,M,GFK Newron + StarTrack + GfK Connect + Discover ,Chennai
+8,Arun Prasath,A,M,Discover +Activate+ E2E+GfK connect + Byzzer,Chennai
+9,Rutwick Pawar,B,M,Discover +Activate+E2E+ GFK Connect + Media,Pune
+10,Arulnithika S,C,F,Discover+Activate+E2E+Media+GfK connect,Chennai
+11,Puja Manna,A,F,GFK Newron + StarTrack + GfK Connect + Discover+Activate+E2E,Chennai
+12,Shainaj Khatun,B,F,GFK Newron + StarTrack + GfK Connect + Discover+Activate+E2E,Chennai
+13,Swaraj Pawar,C,M,GFK Newron + StarTrack + GfK Connect + Discover+Activate+E2E,Pune
+14,Aventhikhaa S K,A,F,GFK Newron + StarTrack + GfK Connect + Discover+Activate+E2E,Chennai
+15,Rajshree Singh,B,F,GFK Newron + StarTrack + GfK Connect + Discover+Activate+E2E,Pune
+16,Shakti Prasad Panda,C,M,GFK Newron + StarTrack + GfK Connect + Discover+Activate+E2E,Pune
+17,Krishnaraj Murugan,G,M,Discover + Media,Chennai
+18,Sitarth R,A,M,Discover + Activate + E2E + Media + Brandbank + Etilize,Chennai
+19,Deepika Anandan,B,F,Discover + Activate+E2E+Media + Bases,Chennai
+20,Pranay Patcha,C,M,Discover +Activate+E2E+ Media+ Entertainment + NIQ FS,Pune
+21,Phanindra Kumar,A,M,Discover+Activate+E2E+Media,Chennai
+22,Mallikarjun,B,M,Discover + Activate+E2E+Media,Chennai
+23,Vishnu Varthan A K,C,M,Discover +Activate+ E2E,Chennai
+24,G Monica,G,F,Activate + Discover + Entertainment + NIQ FS,Chennai
+25,Abishek P,A,M,Discover +Activate+E2E+NIQ FS+ Entertainment,Chennai
+26,Jeevankumar M,B,M,Discover + Activate+E2E+NIQ FS+Entertainment,Chennai
+27,Shivani Tiwari,C,F,Discover + Activate+E2E+NIQ FS+Entertainment,Pune
+28,Ananya Wagh,A,F,Discover + Activate+E2E+NIQ FS+Entertainment,Pune
+29,Samvardhan Singh,B,M,Discover + Activate+E2E+NIQ FS+Entertainment,Pune
+30,Soorya R,C,F,Discover + Activate+E2E+NIQ FS+Entertainment,Chennai
+31,Angelin S,G,F,Discover + Bases + Brandbank + Etilize,Chennai
+32,Ruchi Sinha,A,F,Discover +Activate+ Brandbank+Etilize,Chennai
+33,Muskan Gujar,B,F,Discover +Activate+E2E+Brandbank + Etilize,Pune
+34,Suraj Baviskar,C,M,Discover +Activate+E2E+ Brandbank+Etilize,Pune
+35,Sonal Kulkarni,A,F,Activate + Discover + E2E+Brandbank+Etilize,Pune
+36,Komal Roshan,B,F,Discover+Activate+E2E,Pune
+37,Suruthinathan,G,M,CCOE ,Chennai
+38,Jyothika Pynampuram,A,F,CCOE+ GitHub + Analytics,Chennai
+39,Sai Lohith Nagarikanti,B,M,CCOE + Brandbank + Analytics,Chennai
+40,Vaidik Verma,C,M,CCOE + Analytics,Pune
+41,Amitesh Kumar,A,M,CCOE + Byzzer + Analytics + Brandbank,Pune
+42,Lavanya Dhanaraj,B,F,CCOE + Byzzer + Cyber Ark + Analytics,Chennai
+43,Jagan Karthikeyan,C,M,CCOE + Analytics,Chennai
+44,Tanishka Dande,A,F,CCOE + Analytics,Pune
